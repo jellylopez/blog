@@ -3,6 +3,6 @@ layout: homepage.liquid
 title: Horsin' Around
 ---
 
-# Welcome to Hollywoo
+# my smol blog
 
-Hello. I am BoJack. Horseman, obviously
+Hello, I'm Angelica, Jelly, Lopez. I be thinking sometimes.
