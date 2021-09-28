@@ -1,5 +1,6 @@
 ---
 title: Who is Banjo?
+date: '2021-09-28'
 ---
 
 This is how you add images to your posts
