@@ -1,8 +1,8 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: smol blog
 ---
 
-# my smol blog
+# smol blog
 
 Hello, I'm Angelica, Jelly, Lopez. I be thinking sometimes.
