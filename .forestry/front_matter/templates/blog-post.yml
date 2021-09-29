@@ -16,3 +16,5 @@ fields:
     time_format: 
     display_utc: false
   description: YYYY/MM/DD
+pages:
+- posts/hello-world.md
