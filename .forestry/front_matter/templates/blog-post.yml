@@ -1,4 +1,20 @@
 ---
 label: Blog post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: what is your post called
+- name: date
+  type: datetime
+  label: Date
+  description: When did you write the post
+  config:
+    required: false
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+  default: now
