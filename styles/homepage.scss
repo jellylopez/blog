@@ -30,7 +30,11 @@ p {
   margin: 8px 0;
 }
 
-.rotate {
+footer {
+  padding: 1rem;
+}
+
+.rotate:hover {
   animation: rotation 8s infinite linear;
 }
 

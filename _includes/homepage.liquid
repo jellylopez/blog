@@ -11,6 +11,8 @@
   <body>
     <div class="container">
       {{ content }}
+      <img alt="sweet chloe"src="./assets/images/chloe.png" class="rotate" height="80px"/>
+      <img alt="goblin banjo"src="./assets/images/puppy.png" class="rotate" height="90px"/>
       <h2 class="category">Posts</h2>
       <ul class="posts">
         {% for post in collections.posts reversed %}
@@ -28,7 +30,6 @@
         </li>
         {% endfor %}
       </ul>
-      <img style="text-align: center" src="./assets/images/bear.png" class="rotate" width="100" height="100"/>
     </div>
   </body>
 </html>

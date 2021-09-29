@@ -1,8 +1,9 @@
 ---
 layout: homepage.liquid
-title: smol blog
+title: my smol blog
 ---
 
-# smol blog
+# my smol blog 
+
 
 Hello, I'm Angelica, Jelly, Lopez. I be thinking sometimes.
