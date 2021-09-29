@@ -1,8 +1,8 @@
 ---
-title: Hello World
+title: Hello Banjo
 date: 2021-09-29T04:00:00.000+00:00
 
 ---
 Yo
 
-![goblin](_site/assets/images/banjo.jpeg "goblin")
+![goblin](assets/images/banjo.jpeg "goblin")
