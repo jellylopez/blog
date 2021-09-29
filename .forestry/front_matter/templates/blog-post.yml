@@ -19,4 +19,4 @@ fields:
     display_utc: false
   default: now
 pages:
-- blog/posts/hello-world.md
+- posts/hello-world.md
